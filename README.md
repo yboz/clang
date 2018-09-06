@@ -1,2 +1,2 @@
-# dev-python
-dev image for python apps
+# dev-clang
+dev image for c++ apps based on yboz/graphical
